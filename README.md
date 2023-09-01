@@ -17,7 +17,7 @@
 ## Usage
 
 1. Clone this repository:
-  git clone https://github.com/mohripan/RealESRGAN-FineTuning.git
+  git clone [https://github.com/mohripan/RealESRGAN-FineTuning.git](https://github.com/mohripan/Skripsi-TA.git)
   cd RealESRGAN-FineTuning
 
 2. Install the required packages:
