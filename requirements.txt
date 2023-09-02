@@ -10,3 +10,6 @@ slidingwindow
 basicsr
 glob
 pytorch-pretrained-vit
+ninja
+scikit-image
+scipy
