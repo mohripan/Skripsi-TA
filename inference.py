@@ -33,7 +33,7 @@ os.chdir(path_to_final)
 
 # Run Final Inference
 print('Running inference ...')
-subprocess.check_call(["python", "degradation_removal.py"])
+# subprocess.check_call(["python", "degradation_removal.py"])
 subprocess.check_call(["python", "demo.py", "--task", "FaceEnhancement", "--model", "GPEN-BFR-512", "--in_size", "512", "--channel_multiplier", "2", "--narrow", "1", "--use_sr", "--sr_scale", "2", "--use_cuda", "--save_face", "--indir", "DR", "--outdir", "results"])
 
 print("Done")
