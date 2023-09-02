@@ -5,10 +5,6 @@
     <img src="hasil1.jpg" alt="Logo">
 </div>
 
-# RealESRGAN Fine-tuning
-
-This repository contains an implementation for fine-tuning RealESRGAN on your custom dataset. RealESRGAN is a state-of-the-art image super-resolution model based on the ESRGAN architecture. By fine-tuning the pre-trained RealESRGAN model on your specific dataset, you can achieve even better results for your specific use case.
-
 ## Requirements
 
 - Python 3.7 or higher
@@ -21,7 +17,7 @@ This repository contains an implementation for fine-tuning RealESRGAN on your cu
 ## Usage
 
 1. Clone this repository:
-  git clone https://github.com/mohripan/RealESRGAN-FineTuning.git
+  git clone [https://github.com/mohripan/RealESRGAN-FineTuning.git](https://github.com/mohripan/Skripsi-TA.git)
   cd RealESRGAN-FineTuning
 
 2. Install the required packages:
